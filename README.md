@@ -48,7 +48,6 @@
 
 Ви можете зв'язатися зі мною кількома способами:
 
-- **Discord** 🎮 — [zdolbuniv](https://discord.com) *(напишіть мені)*
 - **GitHub** 💻 — [@DmytroZyniar](https://github.com/DmytroZyniar)
 - **Email** 📧 — dmytrozyniar@gmail.com 
 
