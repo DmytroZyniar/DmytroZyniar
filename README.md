@@ -26,13 +26,7 @@
 
 ---
 
-## 📊 GitHub Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmytroZyniar&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DmytroZyniar&layout=compact&theme=tokyonight)
-
----
 
 ## 🎓 Мої наукові інтереси
 
