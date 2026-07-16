@@ -118,19 +118,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-### 📈 GitHub Статистика
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmytroZyniar&show_icons=true&theme=dark&locale=uk)](https://github.com/DmytroZyniar)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmytroZyniar&layout=compact&theme=dark&locale=uk)](https://github.com/DmytroZyniar)
-
-</div>
-
----
 
 <div align="center">
 
