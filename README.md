@@ -47,7 +47,7 @@
 - **Технології:** React Native, TypeScript, Python
 - **Статус:** 🔴 В розробці
 - **Функціонал:** Реал-тайм чати, мессенджинг, синхронізація
-- 🔗 [Переглянути проект]([https://github.com/DmytroZyniar](https://github.com/DmytroZyniar/UTTER-MODERN))
+- 🔗 [Переглянути проект]([https://github.com/DmytroZyniar/UTTER-MODERN])
 
 ### 💬 **Content Messenger**
 > Інтелектуальний мессенджер для спільного управління контентом
