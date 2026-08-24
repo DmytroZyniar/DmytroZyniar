@@ -111,7 +111,6 @@
 | Канал | Контакт |
 |-------|---------|
 | 📧 **Email** | [dmytrozyniar@gmail.com](mailto:dmytrozyniar@gmail.com) |
-| 💻 **GitHub** | [@DmytroZyniar](https://github.com/DmytroZyniar) |
 | 🔗 **Мій профіль** | [github.com/DmytroZyniar](https://github.com/DmytroZyniar) |
 
 > ✨ **Зворотний зв'язок, пропозиції спільпраці та дружелюбні чати - завжди вітаються!**
