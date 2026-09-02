@@ -1,129 +1,128 @@
 <div align="center">
 
-# 👋 Привіт, я **Дмитро Зиняр**!
+# 👋 Привіт, я **Дмитро Зиняр**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Passionate+Learner+%F0%9F%93[...]
+### Student Developer · Realtime Systems · Applied AI
 
-**17 років | Студент | Програміст | Розробник**
+Створюю full-stack продукти з realtime-комунікацією, голосовими технологіями,
+AI-функціями та сучасним backend.
 
----
-
-### 🎯 Про мене
-
-> Я молодий, амбітний програміст, який вчиться на розробника. Люблю створювати цікаві та функціональні прое[...]
-
-**Мої цінності:** 🤝 Допомога | 💡 Креативність | 🔧 Якість коду | 📚 Безперервна Практика
+[GitHub](https://github.com/DmytroZyniar) ·
+[Email](mailto:dmytrozyniar@gmail.com)
 
 </div>
 
 ---
 
-## 🛠️ Технологічний стек
+## 🧑‍💻 Про мене
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Я студент-розробник, який люблю розбиратися зі складними системами та доводити ідеї до робочого продукту.
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+Мій основний фокус:
 
-### Системне програмування
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- realtime-застосунки та WebSocket-комунікація;
+- backend і системна логіка;
+- голосові AI-системи;
+- авторизація, приватність і безпека;
+- full-stack розробка веб- і мобільних продуктів.
+
+Найбільше мені подобається не просто писати окремі функції, а з'єднувати різні частини системи в один цілісний продукт.
 
 ---
 
-## 🚀 Основні проекти
+## 🛠️ Технології
 
-### 📱 **UTTER**
-> Комунікаційна платформа нового покоління
-- **Технології:** React Native, TypeScript, Python
-- **Статус:** ✅ Випущено — публічно доступний
-- **Функціонал:** Реал-тайм чати, мессенджинг, синхронізація
-- 🔗 [Переглянути проект](https://github.com/DmytroZyniar/UTTER-MODERN)
+### Основний стек
 
-### 💬 **Content Messenger**
-> Інтелектуальний мессенджер для спільного управління контентом
-- **Технології:** JavaScript, Python, Django
-- **Статус:** 🔴 В розробці
-- **Функціонал:** Обмін повідомленнями, керування вмістом, інтеграції
-- 🔗 [Переглянути проект](https://github.com/DmytroZyniar/chat-msg)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
----
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-## 📊 Статистика
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-333333?style=flat-square)
 
-```
-💻 Основні мови програмування:
-  ├── JavaScript ......... 19 репозиторіїв
-  ├── C# ................ 13 репозиторіїв
-  ├── Python ............ 12 репозиторіїв
-  ├── TypeScript ........ 6 репозиторіїв
-  ├── HTML/CSS .......... 7 репозиторіїв
-  ├── Java ............. 2 репозиторія
-  └── C++ .............. 2 репозиторія
+### Також працював із
 
-📦 Всього репозиторіїв: 88+
-```
+Django · FastAPI · Prisma · SignalR · Pusher · Ollama · STT/TTS · ONNX ·
+Java · Spring Boot · C++
 
 ---
 
-## 🎓 Мої інтереси та область навчання
+## 🚀 Основні проєкти
 
-- 🌐 **Web Development** (Frontend & Backend)
-- 📱 **Mobile Development** (React Native)
-- 🖥️ **Desktop Applications** (WPF, WinForms)
-- 🤖 **Штучний інтелект & Machine Learning**
-- ⚙️ **Системне програмування**
+### 🎙️ UTTER
 
----
+Voice-first AI-платформа для практики англійської мови.
 
-## 🌱 Поточні цілі
+Основні можливості:
 
-- ✅ Поглибити знання в **Full-Stack розробці**
-- ✅ Завершити проекти **UTTER** та **Content Messenger**
-- ✅ Дослідити **Machine Learning** та **AI**
-- ✅ Зростати як розробник та допомагати спільноті
+- realtime voice-комунікація;
+- аудіопотік STT → LLM → TTS;
+- AI-ментор із персоналізованими відповідями;
+- аналіз помилок і прогресу користувача;
+- авторизація та рольова модель доступу;
+- веб- і мобільний клієнт.
 
----
+**Технології:** React Native, TypeScript, Python, WebSockets, PostgreSQL, Redis, Docker
 
-## 💡 Цікаві факти про мене
+**Статус:** 🚧 Active development
 
-- 🎮 Люблю грати ігри з друзями у вільний час
-- 👥 Ціную живе спілкування і час з близькими
-- 🤝 Завжди готовий допомогти комусь у потребі
-- 📚 Постійно навчаюсь та слідкую за новими трендами в технологіях
-- 💪 Вважаю, що технології які зараз покращуються це майбутнє
+[Переглянути UTTER](https://github.com/DmytroZyniar/UTTER-MODERN)
 
 ---
 
-## 📞 Контакти & Зв'язок
+### 💬 Content Messenger
 
-<div align="center">
+Месенджер із realtime-повідомленнями, приватністю та керуванням акаунтом.
 
-| Канал | Контакт |
-|-------|---------|
-| 📧 **Email** | [dmytrozyniar@gmail.com](mailto:dmytrozyniar@gmail.com) |
-| 🔗 **Мій профіль** | [github.com/DmytroZyniar](https://github.com/DmytroZyniar) |
+Основні можливості:
 
-> ✨ **Зворотний зв'язок, пропозиції спільпраці та дружелюбні чати - завжди вітаються!**
+- realtime-чати;
+- повідомлення, відповіді, пересилання та вкладення;
+- двофакторна авторизація;
+- налаштування приватності;
+- автоматичне видалення акаунтів і повідомлень;
+- адміністративні функції та модерація.
 
-</div>
+**Технології:** TypeScript, Node.js, React, PostgreSQL, Prisma, Pusher
 
+**Статус:** 🚧 In development
 
-<div align="center">
+[Переглянути Content Messenger](https://github.com/DmytroZyniar/chat-msg)
 
-### 💬 Цікаво
+---
 
-> *"Не просто пиши код, пиши код, який змінює наш світ!"* 
+## 🎯 Поточний фокус
 
-**Дякую, що ви тут!** 👋 Не забудьте залишити ⭐ якщо вам сподобалися проекти!
+- поглиблення знань у backend та system design;
+- realtime-системи та масштабування;
+- Applied AI та голосові інтерфейси;
+- безпека, приватність і надійність;
+- тестування, observability та production deployment.
 
-</div>
+---
+
+## 🤝 Мої принципи
+
+Я ціную:
+
+- практичний результат;
+- чисту та зрозумілу архітектуру;
+- постійне навчання;
+- відповідальне ставлення до безпеки;
+- створення продуктів, які реально можна використовувати.
+
+---
+
+## 📫 Контакти
+
+- 📧 [dmytrozyniar@gmail.com](mailto:dmytrozyniar@gmail.com)
+- 🔗 [github.com/DmytroZyniar](https://github.com/DmytroZyniar)
